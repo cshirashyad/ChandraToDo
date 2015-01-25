@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChandraToDo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item_hint">Enter To Do Item</string>
+    <string name="add_item_button_label">Add Item</string>
+
+</resources>
